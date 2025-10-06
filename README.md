@@ -11,7 +11,7 @@ Please add the developer's [repository](https://m4fn3.github.io/repo/index.html)
 > [!WARNING]
 > If you are using the ipa for [TrollStore](https://ios.cfw.guide/installing-trollstore/), do not change the app ID from `jp.naver.line`. If you want to use a duplicated LINE app or change the app ID, please use the ipa for Sideloading, change the app ID, and then download it via TrollStore.
 
-Please download the ipa for TrollStore from [here] and install it via TrollStore.
+Please download the ipa for TrollStore from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/TrollStore) and install it via TrollStore.
 > [!TIP]
 > If you have already installed it from the App Store, you can switch to K2ge3Air while keeping your data by installing it with TrollStore and selecting "Force Installation".
 > If any issues arise or if you want to revert to the official LINE app, you can safely restore it by reinstalling the LINE app from the App Store.
@@ -20,5 +20,5 @@ Please download the ipa for TrollStore from [here] and install it via TrollStore
 > [!WARNING]
 > Please be very careful about certificate expiration when using Sideloading.
 
-Please download the ipa for Sideloading from [here] and install it using AltStore, Sideloadly, or similar tools.
+Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and install it using AltStore, Sideloadly, or similar tools.
 
