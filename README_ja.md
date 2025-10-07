@@ -1,4 +1,4 @@
-# K2ge3インストール方法
+# K2ge3Airインストール方法
 [[English]](README.md)
 
 > [!CAUTION]
