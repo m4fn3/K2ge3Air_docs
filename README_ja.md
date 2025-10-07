@@ -20,7 +20,7 @@ TrollStore向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/rele
 > [!WARNING]
 > Sideloading使用時は署名切れに十分ご注意ください。
 
-Sideloading向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading)からダウンロードして、AltStoreやSideloadlyなどでインストールしてください。
+Sideloading向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading)からダウンロードして、AltStoreやSideloadlyなどでインストールしてください。(LiveContainerでもご利用いただけます。)
 
 
 
