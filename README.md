@@ -20,5 +20,5 @@ Please download the ipa for TrollStore from [here](https://github.com/m4fn3/K2ge
 > [!WARNING]
 > Please be very careful about certificate expiration when using Sideloading.
 
-Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and install it using AltStore, Sideloadly, or similar tools.
+Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and install it using AltStore, Sideloadly, or similar tools. (LiveContainer also works with this.)
 
