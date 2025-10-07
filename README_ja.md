@@ -20,8 +20,18 @@ TrollStore向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/rele
 > [!WARNING]
 > Sideloading使用時は署名切れに十分ご注意ください。
 
-Sideloading向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading)からダウンロードして、AltStoreやSideloadlyなどでインストールしてください。(LiveContainerでもご利用いただけます。)
+Sideloading向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading)からダウンロードして、AltStoreやSideloadlyなどでインストールしてください。
 
+## その他の環境
+### LiveContainer
+Sideloading向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading)からダウンロードして、LiveContainer内からインストールしてください。
+
+### TrollFools
+> [!WARNING]
+> debの注入をサポートしているバージョンを使用してください。debの注入時に警告が表示される場合がありますが、問題なく動作します。
+> 公式のLINEアプリ(`jp.naver.line`)以外に注入する場合は、Sideloading向けのdebをご利用ください。
+
+TrollStore向けのdebを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/TrollStore)からダウンロードして、TrollFools経由でLINEに注入してください。
 
 
 

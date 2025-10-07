@@ -20,5 +20,15 @@ Please download the ipa for TrollStore from [here](https://github.com/m4fn3/K2ge
 > [!WARNING]
 > Please be very careful about certificate expiration when using Sideloading.
 
-Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and install it using AltStore, Sideloadly, or similar tools. (LiveContainer also works with this.)
+Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and install it using AltStore, Sideloadly, or similar tools. 
 
+## Other Environments
+### LiveContainer
+Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and install it from within LiveContainer.
+
+### TrollFools
+> [!WARNING]
+> Please use a version that supports deb injection. You may see a warning during deb injection, but it will work fine.
+> If you want to inject into an app other than the official LINE app (`jp.naver.line`), please use the deb for Sideloading.
+
+Please download the deb for TrollStore from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and inject it into LINE via TrollFools.
