@@ -32,3 +32,9 @@ Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2g
 > If you want to inject into an app other than the official LINE app (`jp.naver.line`), please use the deb for Sideloading.
 
 Please download the deb for TrollStore from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and inject it into LINE via TrollFools.
+
+## FAQ
+### I want to use multiple accounts / duplicate the app
+Please use the ipa for Sideloading, change the app ID to another one of your choice, and then install it via TrollStore or Sideloading.
+For jailbroken environments, it is recommended to use Crane.
+Please note that a separate license for K2ge3Air is required for each account.

@@ -33,5 +33,12 @@ Sideloading向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/rel
 
 TrollStore向けのdebを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/TrollStore)からダウンロードして、TrollFools経由でLINEに注入してください。
 
+## よくある質問
+### 複数のアカウントを使用したい / アプリを複製したい
+Sideloading向けのipaを用いて、アプリのidを別の好きなものに変更してからTrollStoreやSideloadingなどでインストールしてください。
+脱獄環境の場合は、Craneを利用することをお勧めします。
+なお、K2ge3Airのライセンスはアカウントごとに別途ご用意ください。
+
+
 
 
