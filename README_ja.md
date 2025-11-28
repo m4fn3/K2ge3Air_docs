@@ -35,9 +35,12 @@ TrollStore向けのdebを[こちら](https://github.com/m4fn3/K2ge3Air_docs/rele
 
 ## よくある質問
 ### 複数のアカウントを使用したい / アプリを複製したい
-Sideloading向けのipaを用いて、アプリのidを別の好きなものに変更してからTrollStoreやSideloadingなどでインストールしてください。
-脱獄環境の場合は、Craneを利用することをお勧めします。
+Sideloading向けのipaを用いて、アプリのidを別の好きなものに変更してからTrollStoreやSideloadingなどでインストールしてください。通知を受け取ることはできません。
+脱獄環境の場合は、Craneを利用することをお勧めします。この場合は適切な設定により通知を受け取ることができます。
 なお、K2ge3Airのライセンスはアカウントごとに別途ご用意ください。
+
+### 通知が来ない
+Sideloading環境で通知を受け取るには、適切な権限を持つ証明書で署名を行う必要があります。また。アプリのidを`jp.naver.line`のままに保つ必要があります。ただし、無料のAppleIDでは通知を受け取ることはできません。TrollStore環境及び脱獄環境では、アプリのidが`jp.naver.line`である限り通知は機能します。
 
 
 

@@ -35,6 +35,9 @@ Please download the deb for TrollStore from [here](https://github.com/m4fn3/K2ge
 
 ## FAQ
 ### I want to use multiple accounts / duplicate the app
-Please use the ipa for Sideloading, change the app ID to another one of your choice, and then install it via TrollStore or Sideloading.
-For jailbroken environments, it is recommended to use Crane.
+Please use the ipa for Sideloading, change the app ID to another one of your choice, and then install it via TrollStore or Sideloading. Note that you will not be able to receive notifications.
+For jailbroken environments, it is recommended to use Crane. With appropriate settings, you can receive notifications in this case.
 Please note that a separate license for K2ge3Air is required for each account.
+
+### I am not receiving notifications
+To receive notifications in a Sideloading environment, you need to sign the app with a certificate that has the appropriate permissions. Additionally, you must keep the app ID as `jp.naver.line`. However, notifications cannot be received with a free Apple ID. In TrollStore and jailbroken environments, notifications will work as long as the app ID is `jp.naver.line`.
