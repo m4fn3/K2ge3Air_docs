@@ -18,7 +18,8 @@ TrollStore向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/rele
 
 ## Sideloading環境
 > [!WARNING]
-> Sideloading使用時は署名切れに十分ご注意ください。
+> 一部の機能を正常に利用するために、設定 > プライバシーとセキュリティ > デベロッパモードからデベロッパモードを有効にしてください。
+> また、Sideloading使用時は署名切れに十分ご注意ください。
 
 Sideloading向けのipaを[こちら](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading)からダウンロードして、AltStoreやSideloadlyなどでインストールしてください。
 
@@ -35,8 +36,7 @@ TrollStore向けのdebを[こちら](https://github.com/m4fn3/K2ge3Air_docs/rele
 
 ## よくある質問
 ### 複数のアカウントを使用したい / アプリを複製したい
-Sideloading向けのipaを用いて、アプリのidを別の好きなものに変更してからTrollStoreやSideloadingなどでインストールしてください。通知を受け取ることはできません。
-脱獄環境の場合は、Craneを利用することをお勧めします。この場合は適切な設定により通知を受け取ることができます。
+Sideloading向けのipaを用いて、アプリのidを別の好きなものに変更してからTrollStoreやSideloadingなどでインストールしてください。脱獄環境の場合は、Craneを利用することをお勧めします。ただし、通知は受け取ることができません。
 なお、K2ge3Airのライセンスはアカウントごとに別途ご用意ください。
 
 ### 通知が来ない

@@ -18,7 +18,8 @@ Please download the ipa for TrollStore from [here](https://github.com/m4fn3/K2ge
 
 ## Sideloading Environment
 > [!WARNING]
-> Please be very careful about certificate expiration when using Sideloading.
+> Please enable Developer Mode from Settings > Privacy & Security > Developer Mode to use some features properly.
+> Please be careful about certificate expiration when using Sideloading.
 
 Please download the ipa for Sideloading from [here](https://github.com/m4fn3/K2ge3Air_docs/releases/tag/Sideloading) and install it using AltStore, Sideloadly, or similar tools. 
 
@@ -35,8 +36,8 @@ Please download the deb for TrollStore from [here](https://github.com/m4fn3/K2ge
 
 ## FAQ
 ### I want to use multiple accounts / duplicate the app
-Please use the ipa for Sideloading, change the app ID to another one of your choice, and then install it via TrollStore or Sideloading. Note that you will not be able to receive notifications.
-For jailbroken environments, it is recommended to use Crane. With appropriate settings, you can receive notifications in this case.
+Please use the ipa for Sideloading, change the app ID to another one of your choice, and then install it via TrollStore or Sideloading. For jailbroken environments, it is recommended to use Crane. 
+However, notifications cannot be received.
 Please note that a separate license for K2ge3Air is required for each account.
 
 ### I am not receiving notifications
