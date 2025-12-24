@@ -6,6 +6,7 @@
 
 ## 脱獄環境 (Bootstrapを含む)
 製作者の[リポジトリ](https://m4fn3.github.io/repo/index.html)をリンク先から追加したのち、K2ge3Airをインストールしてください。
+NathanLRでは現在一部機能が動作しない可能性があります。LINEへのInjectionを無効にした上で、TrollFoolsをご利用ください。
 
 ## TrollStore環境
 > [!WARNING]

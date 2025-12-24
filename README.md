@@ -6,6 +6,7 @@
 
 ## Jailbroken Environment (Including Bootstrap)
 Please add the developer's [repository](https://m4fn3.github.io/repo/index.html) from the link and then install K2ge3Air.
+NathanLR may currently cause some features to not work properly. Please disable Injection to LINE and use TrollFools.
 
 ## TrollStore Environment
 > [!WARNING]
